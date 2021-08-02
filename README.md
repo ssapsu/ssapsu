@@ -22,9 +22,16 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Java-4479A1?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Kotlin-E34F26?style=flat-square&logo=Kotlin&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/ML-339933?style=flat-square&logo=ML&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/ML-339933?style=flat-square&logo=ML&logoColor=white"/></a> &nbsp </br></br></br></br></br></br></br></br>
 
-</br></br></br></br></br></br></br></br>
+
+<h3 align="center"><b>🗒 Experiences 🗒 </b></h3>
+
+*뇌과학올림피아드 출전(2016)
+*ROBOTICS 동아리 활동, 창의로봇경진대회 은상(2017)
+*과학영재학급-뮤온입자 검출기를 활용한 온습도 측정(2017~2018)
+*세종대학교 글쓰기 멘토(2020.09~2020.12)
+*EU-Korea Intelligent IoT oneM2M Hackathon-동상(2021)
 
 
 
