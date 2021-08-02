@@ -27,19 +27,16 @@
 
 <h3 align="center"><b>🗒 Experiences 🗒 </b></h3>
 
-*뇌과학올림피아드 출전 2016</br>
-*ROBOTICS 동아리 활동, 창의로봇경진대회 은상 2017</br>
-*과학영재학급-뮤온입자 검출기를 활용한 온습도 측정 2017~2018 </br>
-*세종대학교 글쓰기 멘토 2020.09-2020.12 </br>
-*세종대학교 AISL 학부연구생
->MachineLearning을 활용한 1차 전지 수명 예측 연구 2021.05~
->MetaVerse Digital twins 플랫폼 개발 2021.07~
-*EU-Korea Intelligent IoT oneM2M Hackathon-동상 2021
-
-
+* 뇌과학올림피아드 출전 2016</br>
+* ROBOTICS 동아리 활동, 창의로봇경진대회 은상 2017</br>
+* 과학영재학급-뮤온입자 검출기를 활용한 온습도 측정 2017~2018 </br>
+* 세종대학교 글쓰기 멘토 2020.09-2020.12 </br>
+* 세종대학교 AISL 학부연구생</br>
+  * MachineLearning을 활용한 1차 전지 수명 예측 연구 2021.05~ </br>
+  * MetaVerse Digital twins 플랫폼 개발 2021.07~ </br>
+* EU-Korea Intelligent IoT oneM2M Hackathon-동상 2021
 
 ![footer](https://capsule-render.vercel.app/api?section=footer)
-
 
 
 
