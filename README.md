@@ -34,8 +34,7 @@
 | 과학영재학급-뮤온입자 검출기를 활용한 온습도 측정 | 2017~2018 |
 | 세종대학교 글쓰기 멘토 | 2020.09-2020.12 |
 | 세종대학교 AISL 학부연구생 | |
-| > MachineLearning을 활용한 1차 전지 수명 예측 연구 | 2021.05~ |
-| > MetaVerse Digital twins 플랫폼 개발 | 2021.07~ |
+| > MachineLearning을 활용한 1차 전지 수명 예측 연구 | 2021.05~ 
 | EU-Korea Intelligent IoT oneM2M Hackathon-동상 | 2021 |
 
 
