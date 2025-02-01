@@ -3,7 +3,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssapsu&theme=tokyonight" align="right" width="45%"/>
 
   <!-- 자기소개 -->
-  <h2>👋 Hi, I'm ssapsu!</h2>
+  <p><b>👋 Hi, I'm ssapsu!</b></p>
   <p>
     🔹 Robotics & AI Developer<br>
     🔹 Working with ROS2, MoveIt, Isaac Sim, and Kinova Gen3<br>
@@ -16,6 +16,7 @@
     💼 LinkedIn: <a href="https://linkedin.com/in/yourprofile">Your LinkedIn</a>
   </p>
 </div>
+
 
 <h3 align="left"><b>🛠 Tech Stack 🛠</b></h3>
 
