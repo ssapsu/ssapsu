@@ -50,7 +50,7 @@
 
 </div>
 
-</br></br></br></br></br></br></br></br>
+</br></br></br>
 
 <!-- 프로필 세부 정보 -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ssapsu&theme=github_dark" width="100%">
