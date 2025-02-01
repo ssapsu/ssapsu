@@ -7,14 +7,20 @@
 
 
 <div align="center">
-  
+
 # 🚀 Tech Stack 🚀
+
+💡 **What I Use** 💡  
+*Robotics | AI | Simulation | Motion Planning*
+
+---
 
 ### 🔹 Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 ---
 
@@ -29,9 +35,9 @@
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![MoveIt 2](https://img.shields.io/badge/MoveIt2-EC4D37?style=for-the-badge&logo=ros&logoColor=white)  
-![Gazebo](https://img.shields.io/badge/Gazebo-9E9E9E?style=for-the-badge&logo=gazebo&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-9E9E9E?style=for-the-badge&logo=Gazebo&logoColor=white)
 ![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![PX4](https://img.shields.io/badge/PX4-00599C?style=for-the-badge&logo=px4&logoColor=white)
+![PX4](https://img.shields.io/badge/PX4-00599C?style=for-the-badge&logo=PX4&logoColor=white)
 
 ---
 
@@ -42,14 +48,12 @@
 ---
 
 ### 🎨 3D Modeling & CAD  
-![SolidWorks](https://img.shields.io/badge/SolidWorks-F88909?style=for-the-badge&logo=solidworks&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-F88909?style=for-the-badge&logo=Dassault%20Systèmes&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![3D Modeling](https://img.shields.io/badge/3D%20Modeling-FFD700?style=for-the-badge&logo=autodesk&logoColor=white)
 ![3D Printing](https://img.shields.io/badge/3D%20Printing-FF4500?style=for-the-badge&logo=prusa&logoColor=white)  
 
----
-
 </div>
-"""
 
 </br></br></br></br></br></br></br></br>
 
