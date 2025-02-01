@@ -67,5 +67,5 @@
 </div>
 </br></br>
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="90%">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="80%">
 </p>
