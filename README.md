@@ -15,9 +15,9 @@
   </a>
 </p>
 
-## 📹 My Projects on YouTube 🚀  
+---
 
-### 🚁 Drone & Robotics Projects  
+## 🚁 Drone & Robotics Projects  
 
 <table align="center" style="border-collapse: collapse; width: 100%;">
   <tr>
