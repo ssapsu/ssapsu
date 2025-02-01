@@ -25,7 +25,12 @@
 <img src="https://img.shields.io/badge/Kotlin-E34F26?style=flat-square&logo=Kotlin&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/ML-339933?style=flat-square&logo=ML&logoColor=white"/></a> &nbsp </br></br></br></br></br></br></br></br>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ssapsu&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ssapsu&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ssapsu&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ssapsu&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ssapsu&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ssapsu&theme=github_dark&utcOffset=8)
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ssapsu&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="left"><b>🗒 Experiences 🗒 </b></h3></br>
