@@ -52,17 +52,14 @@
 
 </br></br></br>
 
-<div align="center" style="display: flex; align-items: center;">
-
-  <!-- 작은 애들(세로 정렬) -->
-  <div>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ssapsu&theme=github_dark" width="49%">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ssapsu&theme=github_dark" width="49%">
+<div align="center">
+  <div style="display: inline-block; vertical-align: middle;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ssapsu&theme=github_dark" width="200">
+    <br>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ssapsu&theme=github_dark" width="200">
   </div>
 
-  <!-- 옆에 하나 끼우기 -->
-  <div>
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="49%">
+  <div style="display: inline-block; vertical-align: middle;">
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="400">
   </div>
-
 </div>
