@@ -53,13 +53,16 @@
 </br></br></br>
 
 <div align="center">
+  <!-- 작은 그래프 2개 (세로 정렬) -->
   <div style="display: inline-block; vertical-align: middle;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ssapsu&theme=github_dark" width="200">
     <br>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ssapsu&theme=github_dark" width="200">
   </div>
 
+  <!-- 3D 컨트리뷰션 그래프 (옆에 배치) -->
   <div style="display: inline-block; vertical-align: middle;">
     <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="400">
   </div>
 </div>
+
