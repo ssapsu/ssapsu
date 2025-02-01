@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssapsu&theme=tokyonight" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssapsu&theme=github-light" />
   </a>
 </p>
 
@@ -115,8 +115,8 @@
 </div>
 </br>
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ssapsu&theme=github_dark" width="40%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ssapsu&theme=github_dark" width="40%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ssapsu&theme=nord_bright" width="40%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ssapsu&theme=nord_bright" width="40%">
 </div>
 </br>
 <p align="center">
