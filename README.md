@@ -31,6 +31,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ssapsu&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ssapsu&theme=github_dark&utcOffset=8)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ssapsu&theme=tokyonight)](https://git.io/streak-stats)
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ssapsu&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="left"><b>🗒 Experiences 🗒 </b></h3></br>
