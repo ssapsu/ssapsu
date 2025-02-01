@@ -1,7 +1,7 @@
 ## 🎫 Career 🎟
 ✓ 2021.01.01 ~ 2023.08.31 : 세종대학교 AISL 학부연구생 </br>
-✓ 2023.09.01 ~ : 세종대학교 AISL 석사과정
-🙂 2024.06.26 ~ 2024.12.19 : 영국 Coventry 대학교 Visiting Researcher
+✓ 2023.09.01 ~ : 세종대학교 AISL 석사과정 </br>
+🙂 2024.06.26 ~ 2024.12.19 : 영국 Coventry 대학교 Visiting Researcher </br>
 
 ## 🏆 Awards 🏆
 🏅 2021.05.18 : [EU-Korea Intelligent IoT oneM2M Hackathon] - 3rd Prize  
