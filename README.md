@@ -26,12 +26,26 @@
 <img src="https://img.shields.io/badge/ML-339933?style=flat-square&logo=ML&logoColor=white"/></a> &nbsp </br></br></br></br></br></br></br></br>
 
 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssapsu&exclude_repo=ssapsu.github.io&layout=compact&theme=tokyonight" width="45%"/>
+<a href="s" class="stats-card">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssapsu&exclude_repo=ssapsu.github.io&layout=compact&theme=tokyonight" />
 </a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=ssapsu&theme=tokyonight&show_icons=true" width="45%" />
+<a href="s" class="stats-card">
+  <img src="https://github-readme-stats.vercel.app/api?username=ssapsu&theme=tokyonight&show_icons=true" />
 </a>
+
+<style>
+  .stats-card {
+    display: inline-block;
+    width: 45%; /* 두 카드가 동일한 너비를 가지도록 설정 */
+  }
+  
+  .stats-card img {
+    width: 100%;  /* 부모 요소에 맞춰서 자동 조정 */
+    height: 200px; /* 원하는 높이로 고정 */
+    object-fit: cover; /* 이미지 비율을 유지하면서 높이 맞추기 */
+  }
+</style>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ssapsu&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
