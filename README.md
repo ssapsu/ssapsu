@@ -7,7 +7,12 @@
 🏅 2021.05.18 : [EU-Korea Intelligent IoT oneM2M Hackathon] - 3rd Prize  
 🥇 2022.11.29 : [International oneM2M Hackathon (Extension of 5th Mobius developer event)](https://www.hackster.io/blossom/fire-situation-monitoring-system-through-connection-with-dt-365f98) - 1st Prize (Minister of Science and ICT Award)
 
----
+## 📚 Languages & Certifications 🌍🎓  
+💡 _Languages I speak & certifications I've earned_  
+
+- 🏅 **OPIC AL (Advanced Low)**
+- 🗣️ **Korean** (Native)
+- 🗣️ **English** (Fluent)
 
 <p align="center">
   <a href="https://git.io/streak-stats">
