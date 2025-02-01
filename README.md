@@ -1,22 +1,8 @@
-<div align="left">
-  <!-- GitHub Streak을 오른쪽에 배치 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssapsu&theme=tokyonight" align="right" width="45%"/>
-
-  <!-- 자기소개 -->
-  <p><b>👋 Hi, I'm ssapsu!</b></p>
-  <p>
-    🔹 Robotics & AI Developer<br>
-    🔹 Working with ROS2, MoveIt, Isaac Sim, and Kinova Gen3<br>
-    🔹 Passionate about motion planning and manipulation<br>
-    🔹 Interested in autonomous drones & robotic arms<br>
-  </p>
-  <p>
-    📫 How to reach me: <br>
-    📧 Email: your.email@example.com<br>
-    💼 LinkedIn: <a href="https://linkedin.com/in/yourprofile">Your LinkedIn</a>
-  </p>
-</div>
-
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssapsu&theme=tokyonight" />
+  </a>
+</p>
 
 <h3 align="left"><b>🛠 Tech Stack 🛠</b></h3>
 
