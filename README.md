@@ -3,7 +3,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssapsu&theme=tokyonight" />
   </a>
 </p>
-
+<div align="center">
 # 🚀 Tech Stack 🚀
 
 
