@@ -63,8 +63,10 @@
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-F88909?style=for-the-badge&logo=dassaultsystèmes&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![FreeCAD](https://img.shields.io/badge/FreeCAD-1F1F1F?style=for-the-badge&logo=freecad&logoColor=white)
-![3D Printing](https://img.shields.io/badge/3D%20Printing-FF4500?style=for-the-badge&logo=prusa&logoColor=white)
+
 ![Krita](https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white)
+
+![3D Printing](https://img.shields.io/badge/3D%20Printing-FF4500?style=for-the-badge&logo=prusa&logoColor=white)
 
 </div>
 </br>
