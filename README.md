@@ -60,12 +60,12 @@
 ![3D Printing](https://img.shields.io/badge/3D%20Printing-FF4500?style=for-the-badge&logo=prusa&logoColor=white)
 
 </div>
-</br></br>
+</br>
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ssapsu&theme=github_dark" width="40%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ssapsu&theme=github_dark" width="40%">
 </div>
-</br></br>
+</br>
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="80%">
 </p>
