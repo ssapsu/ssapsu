@@ -1,6 +1,12 @@
+
+<div align="right">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ssapsu&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+
 <h3 align="left"><b>🛠 Tech Stack 🛠</b></h3>
-
-
 
 </br>
 <p align="left">
@@ -9,8 +15,6 @@
 <img src="https://img.shields.io/badge/Python-47A248?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> &nbsp </br></br></br></br></br></br></br></br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ssapsu&theme=tokyonight)](https://git.io/streak-stats)
 
 <h3 align="left"><b>🛠 📕 I'm studying ... 📕 🛠</b></h3>
 
