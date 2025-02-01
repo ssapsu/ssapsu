@@ -25,11 +25,20 @@
 <img src="https://img.shields.io/badge/Kotlin-E34F26?style=flat-square&logo=Kotlin&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/ML-339933?style=flat-square&logo=ML&logoColor=white"/></a> &nbsp </br></br></br></br></br></br></br></br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ssapsu&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ssapsu&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ssapsu&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ssapsu&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ssapsu&theme=github_dark&utcOffset=8)
+<!-- 프로필 세부 정보 -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ssapsu&theme=github_dark" width="100%">
+
+<!-- 상위 언어 그래프 (가로 50:50) -->
+<div style="display: flex; justify-content: space-between;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ssapsu&theme=github_dark" width="49%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ssapsu&theme=github_dark" width="49%">
+</div>
+
+<!-- 통계 정보 (가로 50:50) -->
+<div style="display: flex; justify-content: space-between;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ssapsu&theme=github_dark" width="49%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ssapsu&theme=github_dark&utcOffset=8" width="49%">
+</div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ssapsu&theme=tokyonight)](https://git.io/streak-stats)
 
