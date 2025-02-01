@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> &nbsp </br></br></br></br></br></br></br></br>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ssapsu&theme=tokyonight)](https://git.io/streak-stats)
 
 <h3 align="left"><b>🛠 📕 I'm studying ... 📕 🛠</b></h3>
 
@@ -19,7 +20,9 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Java-4479A1?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Kotlin-E34F26?style=flat-square&logo=Kotlin&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/ML-339933?style=flat-square&logo=ML&logoColor=white"/></a> &nbsp </br></br></br></br></br></br></br></br>
+<img src="https://img.shields.io/badge/ML-339933?style=flat-square&logo=ML&logoColor=white"/></a> &nbsp
+
+</br></br></br></br></br></br></br></br>
 
 <!-- 프로필 세부 정보 -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ssapsu&theme=github_dark" width="100%">
@@ -35,8 +38,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ssapsu&theme=github_dark" width="49%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ssapsu&theme=github_dark&utcOffset=8" width="49%">
 </div>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ssapsu&theme=tokyonight)](https://git.io/streak-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ssapsu&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
