@@ -4,36 +4,55 @@
   </a>
 </p>
 
-## 🛠️ Tech Stack
+<div align="center">
+
+# 🚀 Tech Stack 🚀
+
+💡 **What I Use** 💡  
+*Robotics | AI | Simulation | Motion Planning*
+
+---
 
 ### 🔹 Languages & Frameworks  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)  
 
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🔹 Robotics & Simulation  
+---
+
+### 🤖 Robotics & Simulation  
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![MoveIt 2](https://img.shields.io/badge/MoveIt2-EC4D37?style=for-the-badge&logo=ros&logoColor=white)
+![MoveIt 2](https://img.shields.io/badge/MoveIt2-EC4D37?style=for-the-badge&logo=ros&logoColor=white)  
 ![Gazebo](https://img.shields.io/badge/Gazebo-9E9E9E?style=for-the-badge&logo=gazebo&logoColor=white)
 ![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-### 🔹 Development & Tools  
+---
+
+### 🔨 Development & Tools  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-F88909?style=for-the-badge&logo=solidworks&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
-### 🔹 Other Skills  
+---
+
+### 🔥 Other Skills  
 ![3D Modeling](https://img.shields.io/badge/3D%20Modeling-FFD700?style=for-the-badge&logo=autodesk&logoColor=white)
-![3D Printing](https://img.shields.io/badge/3D%20Printing-FF4500?style=for-the-badge&logo=prusa&logoColor=white)
+![3D Printing](https://img.shields.io/badge/3D%20Printing-FF4500?style=for-the-badge&logo=prusa&logoColor=white)  
 ![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-0A192F?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Control Systems](https://img.shields.io/badge/Control%20Systems-007ACC?style=for-the-badge&logo=control&logoColor=white)
+
+---
+
+🎯 **Always Learning & Exploring New Tech** 🚀  
+
+</div>
 
 </br></br></br></br></br></br></br></br>
 
