@@ -29,10 +29,16 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🔹 AI, Data & Simulation  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
 ![rl_games](https://img.shields.io/badge/rl_games-RL-008000?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🤖 Robotics & Embedded Systems  
@@ -56,8 +62,9 @@
 ### 🎨 3D Modeling & CAD  
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-F88909?style=for-the-badge&logo=dassaultsystèmes&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![3D Modeling](https://img.shields.io/badge/3D%20Modeling-FFD700?style=for-the-badge&logo=autodesk&logoColor=white)
+![FreeCAD](https://img.shields.io/badge/FreeCAD-1F1F1F?style=for-the-badge&logo=freecad&logoColor=white)
 ![3D Printing](https://img.shields.io/badge/3D%20Printing-FF4500?style=for-the-badge&logo=prusa&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white)
 
 </div>
 </br>
