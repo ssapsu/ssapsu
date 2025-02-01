@@ -1,3 +1,14 @@
+## 🎫 Career 🎟
+✓ 2021.01.01 ~ 2023.08.31 : 세종대학교 AISL 학부연구생
+✓ 2023.09.01 ~ : 세종대학교 AISL 석사과정
+🙂 2024.06.26 ~ 2024.12.19 : 영국 Coventry 대학교 Visiting Researcher
+
+## 🏆 Awards 🏆
+🏅 2021.05.18 : [EU-Korea Intelligent IoT oneM2M Hackathon] - 3rd Prize  
+🥇 2022.11.29 : [International oneM2M Hackathon (Extension of 5th Mobius developer event)](https://www.hackster.io/blossom/fire-situation-monitoring-system-through-connection-with-dt-365f98) - 1st Prize (Minister of Science and ICT Award)
+
+---
+
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssapsu&theme=tokyonight" />
@@ -23,6 +34,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![rl_games](https://img.shields.io/badge/rl_games-RL-008000?style=for-the-badge)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ---
 
@@ -33,12 +45,19 @@
 ![Gazebo](https://img.shields.io/badge/Gazebo-Simulation-9E9E9E?style=for-the-badge)
 ![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![PX4](https://img.shields.io/badge/PX4-Autopilot-00599C?style=for-the-badge)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Jetson Orin Nano](https://img.shields.io/badge/Jetson%20Orin%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ---
 
 ### 🔨 Development & Tools  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -50,9 +69,13 @@
 
 </div>
 
-<div style="display: flex; justify-content: space-between;">
+---
+
+<div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ssapsu&theme=github_dark" width="49%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ssapsu&theme=github_dark" width="49%">
 </div>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg) 
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="90%">
+</p>
