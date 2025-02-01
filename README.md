@@ -25,16 +25,16 @@
 <img src="https://img.shields.io/badge/Kotlin-E34F26?style=flat-square&logo=Kotlin&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/ML-339933?style=flat-square&logo=ML&logoColor=white"/></a> &nbsp </br></br></br></br></br></br></br></br>
 
-
-<svg width="100%" height="200">
-  <foreignObject width="100%" height="100%">
-    <div style="display: flex; width: 100%; height: 100%;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssapsu&exclude_repo=ssapsu.github.io&layout=compact&theme=tokyonight" style="width: 50%; height: 100%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=ssapsu&theme=tokyonight&show_icons=true" style="width: 50%; height: 100%;">
-    </div>
-  </foreignObject>
-</svg>
-
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssapsu&exclude_repo=ssapsu.github.io&layout=compact&theme=tokyonight" width="100%" height="200">
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=ssapsu&theme=tokyonight&show_icons=true" width="100%" height="200">
+    </td>
+  </tr>
+</table>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ssapsu&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
