@@ -18,44 +18,57 @@
 ## 📹 My Projects on YouTube 🚀  
 
 ### 🚁 Drone & Robotics Projects  
+<div align="center" style="overflow-x: auto; white-space: nowrap; display: flex; gap: 20px; padding: 10px;">
 
-<p align="center">
-  
-<a href="https://www.youtube.com/watch?v=yOf610OOJJs">
-  <img src="https://img.youtube.com/vi/yOf610OOJJs/hqdefault.jpg" width="250">
-  <br><b>Drone Autonomous Landing</b>
-</a> &nbsp;&nbsp;&nbsp;
+  <span style="display: inline-block; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=yOf610OOJJs">
+      <img src="https://img.youtube.com/vi/yOf610OOJJs/hqdefault.jpg" width="250">
+    </a>
+    <br><b>Drone Autonomous Landing</b>
+    <br>드론이 자율적으로 착륙하는 시스템 구현
+  </span>
 
-<a href="https://www.youtube.com/watch?v=jngYRSl3JoI">
-  <img src="https://img.youtube.com/vi/jngYRSl3JoI/hqdefault.jpg" width="250">
-  <br><b>Vision-Based Drone Control</b>
-</a> &nbsp;&nbsp;&nbsp;
+  <span style="display: inline-block; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=jngYRSl3JoI">
+      <img src="https://img.youtube.com/vi/jngYRSl3JoI/hqdefault.jpg" width="250">
+    </a>
+    <br><b>Vision-Based Drone Control</b>
+    <br>컴퓨터 비전을 활용한 드론 제어
+  </span>
 
-<a href="https://www.youtube.com/watch?v=E5KFRbYvh9A">
-  <img src="https://img.youtube.com/vi/E5KFRbYvh9A/hqdefault.jpg" width="250">
-  <br><b>Robot Arm Trajectory Planning</b>
-</a>
+  <span style="display: inline-block; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=E5KFRbYvh9A">
+      <img src="https://img.youtube.com/vi/E5KFRbYvh9A/hqdefault.jpg" width="250">
+    </a>
+    <br><b>Robot Arm Trajectory Planning</b>
+    <br>매니퓰레이터의 경로 계획 및 최적화
+  </span>
 
-</p>
+  <span style="display: inline-block; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=7WtR8b8jeLg">
+      <img src="https://img.youtube.com/vi/7WtR8b8jeLg/hqdefault.jpg" width="250">
+    </a>
+    <br><b>Advanced Control for Manipulators</b>
+    <br>매니퓰레이터 제어 알고리즘 개발
+  </span>
 
-<p align="center">
-  
-<a href="https://www.youtube.com/watch?v=7WtR8b8jeLg">
-  <img src="https://img.youtube.com/vi/7WtR8b8jeLg/hqdefault.jpg" width="250">
-  <br><b>Advanced Control for Manipulators</b>
-</a> &nbsp;&nbsp;&nbsp;
+  <span style="display: inline-block; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=RJcDQYp30dU">
+      <img src="https://img.youtube.com/vi/RJcDQYp30dU/hqdefault.jpg" width="250">
+    </a>
+    <br><b>RL-based Manipulator Control</b>
+    <br>강화학습을 활용한 매니퓰레이터 제어
+  </span>
 
-<a href="https://www.youtube.com/watch?v=RJcDQYp30dU">
-  <img src="https://img.youtube.com/vi/RJcDQYp30dU/hqdefault.jpg" width="250">
-  <br><b>RL-based Manipulator Control</b>
-</a> &nbsp;&nbsp;&nbsp;
+  <span style="display: inline-block; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=lqWkjuPhBdg">
+      <img src="https://img.youtube.com/vi/lqWkjuPhBdg/hqdefault.jpg" width="250">
+    </a>
+    <br><b>JetBot Reinforcement Learning</b>
+    <br>Jetson 기반 JetBot의 RL 학습 및 제어
+  </span>
 
-<a href="https://www.youtube.com/watch?v=lqWkjuPhBdg">
-  <img src="https://img.youtube.com/vi/lqWkjuPhBdg/hqdefault.jpg" width="250">
-  <br><b>JetBot Reinforcement Learning</b>
-</a>
-
-</p>
+</div>
 
 <div align="center">
 
