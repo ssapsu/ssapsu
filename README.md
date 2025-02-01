@@ -120,5 +120,5 @@
 </div>
 </br>
 <p align="center">
-  <img src="./profile-3d-contrib/profile-git-block.svg" width="80%">
+  <img src="./profile-3d-contrib/profile-gitblock.svg" width="80%">
 </p>
