@@ -4,10 +4,13 @@
   </a>
 </p>
 
-<h3 align="left"><b>🛠 Tech Stack 🛠</b></h3>
+<h3 align="left"><b>🛠 Language 🛠</b></h3>
 
 </br>
 <p align="left">
+
+<code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png"> pytorch</code>
+  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Python-47A248?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp 
