@@ -17,7 +17,7 @@
 
 ---
 
-## 🚁 Drone & Robotics Projects  
+## 🚁 Robotics & Drone Projects  
 
 <table align="center" style="border-collapse: collapse; width: 100%;">
   <tr>
