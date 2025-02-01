@@ -4,9 +4,6 @@
   </a>
 </p>
 
-# 업데이트된 GitHub README.md 파일 생성 (요구사항 반영)
-readme_final_content = """<div align="center">
-
 # 🚀 Tech Stack 🚀
 
 
