@@ -1,12 +1,8 @@
-<!-- GitHub Streak을 오른쪽으로 배치 -->
-<p align="right">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssapsu&theme=tokyonight" />
-  </a>
-</p>
-
-<!-- 자기소개 -->
 <div align="left">
+  <!-- GitHub Streak을 오른쪽에 배치 -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssapsu&theme=tokyonight" align="right" width="45%"/>
+
+  <!-- 자기소개 -->
   <h2>👋 Hi, I'm ssapsu!</h2>
   <p>
     🔹 Robotics & AI Developer<br>
@@ -16,11 +12,10 @@
   </p>
   <p>
     📫 How to reach me: <br>
-    ✉️ Email: your.email@example.com<br>
+    📧 Email: your.email@example.com<br>
     💼 LinkedIn: <a href="https://linkedin.com/in/yourprofile">Your LinkedIn</a>
   </p>
 </div>
-
 
 <h3 align="left"><b>🛠 Tech Stack 🛠</b></h3>
 
