@@ -26,6 +26,13 @@
 <img src="https://img.shields.io/badge/ML-339933?style=flat-square&logo=ML&logoColor=white"/></a> &nbsp </br></br></br></br></br></br></br></br>
 
 
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
+</a>
+
 <h3 align="left"><b>🗒 Experiences 🗒 </b></h3></br>
 
 | Experiences | Year |
