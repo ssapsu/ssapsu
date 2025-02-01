@@ -52,19 +52,10 @@
 
 </br></br></br>
 
-<!-- 프로필 세부 정보 -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ssapsu&theme=github_dark" width="100%">
-
 <!-- 상위 언어 그래프 (가로 50:50) -->
 <div style="display: flex; justify-content: space-between;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ssapsu&theme=github_dark" width="49%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ssapsu&theme=github_dark" width="49%">
-</div>
-
-<!-- 통계 정보 (가로 50:50) -->
-<div style="display: flex; justify-content: space-between;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ssapsu&theme=github_dark" width="49%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ssapsu&theme=github_dark&utcOffset=8" width="49%">
 </div>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
