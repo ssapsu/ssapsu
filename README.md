@@ -33,7 +33,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ssapsu&theme=tokyonight&show_icons=true" width="45%" />
 </a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ssapsu)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ssapsu&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="left"><b>🗒 Experiences 🗒 </b></h3></br>
 
