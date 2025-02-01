@@ -1,7 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hyeonsu%20Oh&fontSize=90)
-
-
-
 <h3 align="left"><b>🛠 Tech Stack 🛠</b></h3>
 
 
@@ -52,11 +48,3 @@
 | EU-Korea Intelligent IoT oneM2M Hackathon-동상 | 2021 |
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-</br></br></br></br></br></br></br></br>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer)
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssapsu)](https://github.com/anuraghazra/github-readme-stats)
