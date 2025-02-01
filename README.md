@@ -3,9 +3,10 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssapsu&theme=tokyonight" />
   </a>
 </p>
-<div align="center">
+
 # 🚀 Tech Stack 🚀
 
+<div align="center">
 
 ### 🔹 Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
