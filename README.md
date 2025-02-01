@@ -50,19 +50,9 @@
 
 </div>
 
-</br></br></br>
-<div align="center">
-  
-  <!-- 큰 그래프 (A) -->
-  <div style="float: right;">
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="400">
-  </div>
-
-  <!-- 작은 그래프 2개 (B, C) 세로 정렬 -->
-  <div style="float: left;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ssapsu&theme=github_dark" width="200">
-    <br>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ssapsu&theme=github_dark" width="200">
-  </div>
-
+<div style="display: flex; justify-content: space-between;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ssapsu&theme=github_dark" width="49%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ssapsu&theme=github_dark" width="49%">
 </div>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg) 
