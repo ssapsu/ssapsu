@@ -8,9 +8,6 @@
 
 # 🚀 Tech Stack 🚀
 
-💡 **What I Use** 💡  
-*Robotics | AI | Simulation | Motion Planning*
-
 ---
 
 ### 🔹 Languages & Frameworks  
