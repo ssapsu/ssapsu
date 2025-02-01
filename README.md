@@ -1,8 +1,10 @@
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssapsu&theme=tokyonight" />
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ssapsu&theme=github_dark" width="32%">
+<a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssapsu&theme=tokyonight" width="32%">
   </a>
-</p>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ssapsu&theme=github_dark" width="32%">
+</div>
 
 <div align="center">
 
@@ -51,11 +53,5 @@
 </div>
 
 </br></br></br>
-
-<!-- 상위 언어 그래프 (가로 50:50) -->
-<div style="display: flex; justify-content: space-between;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ssapsu&theme=github_dark" width="49%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ssapsu&theme=github_dark" width="49%">
-</div>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
