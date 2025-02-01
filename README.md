@@ -67,13 +67,4 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ssapsu&theme=github_dark&utcOffset=8" width="49%">
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ssapsu&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<h3 align="left"><b>🗒 Experiences 🗒 </b></h3></br>
-
-| Experiences | Year |
-| :-------------------------------- | :----------: |
-| 세종대학교 AISL 학부연구생 | |
-| EU-Korea Intelligent IoT oneM2M Hackathon-동상 | 2021 |
-
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
