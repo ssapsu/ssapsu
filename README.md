@@ -1,5 +1,3 @@
-아래와 같이 앞단에 소개 내용을 추가하면 좋을 것 같습니다.
-
 👋 Welcome to My GitHub!
 
 Hi there! I’m a robotics and AI researcher passionate about autonomous systems, drone technology, and simulation-based learning. Currently, I’m a Master’s student at Sejong University AISL Lab and a Visiting Researcher at Coventry University, UK. I specialize in ROS 2, MoveIt 2, Isaac Sim, and PX4, working on various projects related to robotic manipulation, reinforcement learning, and real-time control.
@@ -7,9 +5,9 @@ Hi there! I’m a robotics and AI researcher passionate about autonomous systems
 Feel free to explore my repositories, where I share my research, projects, and contributions to the robotics community. Let’s connect and collaborate on exciting robotics and AI innovations! 🚀
 
 ## 🎫 Career 🎟
-✓ 2021.01.01 ~ 2023.08.31 : 세종대학교 AISL 학부연구생 </br>
-✓ 2023.09.01 ~ : 세종대학교 AISL 석사과정 </br>
-🙂 2024.06.26 ~ 2024.12.19 : 영국 Coventry 대학교 Visiting Researcher </br>
+✓ 2021.01.01 ~ 2023.08.31 : undergraduate intern in sejong university AISL </br>
+✓ 2023.09.01 ~ : master degree in sejong university at AISL </br>
+🙂 2024.06.26 ~ 2024.12.19 : UK Coventry University Visiting Researcher </br>
 
 ## 🏆 Awards 🏆
 🏅 2021.05.18 : [EU-Korea Intelligent IoT oneM2M Hackathon] - 3rd Prize  
