@@ -21,8 +21,11 @@ Feel free to explore my repositories, where I share my research, projects, and c
 - 🗣️ **English** (Fluent)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ssapsu&theme=cobalt)](https://git.io/streak-stats)
-
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssapsu&theme=cobalt" />
+  </a>
+</p>
 ---
 
 ## 🚁 Robotics & Drone Projects  
