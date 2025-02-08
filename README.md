@@ -6,6 +6,7 @@ Feel free to explore my repositories, where I share my research, projects, and c
 
 ## 🎫 Career 🎟
 ✓ 2021.01.01 ~ 2023.08.31 : undergraduate intern in sejong university AISL </br>
+✓ 2021.08.01 ~ 2023.08.31 : Service Coordinator of Sejong University Rotaract Club </br>
 ✓ 2023.09.01 ~ : master degree in sejong university at AISL </br>
 🙂 2024.06.26 ~ 2024.12.19 : UK Coventry University Visiting Researcher </br>
 🙂 2024.07.30 ~ 2024.08.02 : EKC(;Europe-Korea Conference) Supporters 2024 </br>
