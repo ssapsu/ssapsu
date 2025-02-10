@@ -71,7 +71,7 @@ Feel free to explore my repositories, where I share my research, projects, and c
       <a href="https://www.youtube.com/watch?v=lqWkjuPhBdg">
         <img src="https://img.youtube.com/vi/lqWkjuPhBdg/hqdefault.jpg" width="250">
       </a>
-      <br><b>Custom Drone PID tuning in Gazebo Class</b>
+      <br><b>Custom Drone PID tuning in Gazebo Classic</b>
     </td>
   </tr>
 </table>
