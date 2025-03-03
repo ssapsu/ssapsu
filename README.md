@@ -74,6 +74,46 @@ Feel free to explore my repositories, where I share my research, projects, and c
       <br><b>Custom Drone PID tuning in Gazebo Classic</b>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.youtube.com/watch?v=hChSgDLZ5Ms">
+        <img src="https://img.youtube.com/vi/hChSgDLZ5Ms/hqdefault.jpg" width="250">
+      </a>
+      <br><b>USD file 수정</b>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.youtube.com/watch?v=jzSWpFRQUzo&t=8s">
+        <img src="https://img.youtube.com/vi/jzSWpFRQUzo/hqdefault.jpg" width="250">
+      </a>
+      <br><b>Dobot CR5 Reinforcement Learning</b>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.youtube.com/watch?v=gG6bj_ePITw">
+        <img src="https://img.youtube.com/vi/gG6bj_ePITw/hqdefault.jpg" width="250">
+      </a>
+      <br><b>AgileX Scout V2 Reinforcement Learning</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.youtube.com/watch?v=BHiEOsEIJrY">
+        <img src="https://img.youtube.com/vi/BHiEOsEIJrY/hqdefault.jpg" width="250">
+      </a>
+      <br><b>Drone Parcel Collection</b>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.youtube.com/watch?v=RMcwh-advfI">
+        <img src="https://img.youtube.com/vi/RMcwh-advfI/hqdefault.jpg" width="250">
+      </a>
+      <br><b>HITL drone PID Tuning</b>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.youtube.com/watch?v=7WtR8b8jeLg">
+        <img src="https://img.youtube.com/vi/7WtR8b8jeLg/hqdefault.jpg" width="250">
+      </a>
+      <br><b>mini golf putting RL</b>
+    </td>
+  </tr>
 </table>
 
 </br>
