@@ -1,6 +1,12 @@
 👋 Welcome to My GitHub!
 
-Hi there! I’m a robotics and AI researcher passionate about autonomous systems, drone technology, and simulation-based learning. Currently, I’m a Master’s student at Sejong University AISL Lab and a Visiting Researcher at Coventry University, UK. I specialize in ROS 2, MoveIt 2, Isaac Sim, and PX4, working on various projects related to robotic manipulation, reinforcement learning, and real-time control.
+🎥 Latest Highlight
+My recent robotics and simulation work was featured in an official NVIDIA promotional video.
+I briefly appear between 2:27 and 2:29 in the video.
+
+<div align="center"> <a href="https://www.youtube.com/watch?v=KnW9lU0lK5g&t=147s"> <img src="https://img.youtube.com/vi/KnW9lU0lK5g/hqdefault.jpg" width="500"> </a> </div>
+
+Hi there! I’m a robotics and AI researcher passionate about autonomous systems, drone technology, and simulation-based learning. I’m currently a Master’s student at Sejong University AISL Lab and a Visiting Researcher at Coventry University, UK. My work focuses on ROS 2, MoveIt 2, Isaac Sim, and PX4, covering robotic manipulation, reinforcement learning, and real-time control.
 
 Feel free to explore my repositories, where I share my research, projects, and contributions to the robotics community. Let’s connect and collaborate on exciting robotics and AI innovations! 🚀
 
